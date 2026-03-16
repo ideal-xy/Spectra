@@ -43,11 +43,10 @@ sudo apt install mpv ffmpeg cava
 
 Clone the repository and run `make`:
 
-```bash
+
 git clone <repository-url>
 cd tplay
 make
-```
 
 The executable will be generated in `bin/tplay`.
 
