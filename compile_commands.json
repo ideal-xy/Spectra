@@ -1,0 +1,222 @@
+[
+  {
+    "file": "src/app.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-O2",
+      "-MMD",
+      "-MP",
+      "-Iinclude",
+      "-c",
+      "src/app.cpp",
+      "-o",
+      "obj/app.o"
+    ],
+    "directory": "/Users/xuyan/Music/tplay",
+    "output": "obj/app.o"
+  },
+  {
+    "file": "src/cava.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-O2",
+      "-MMD",
+      "-MP",
+      "-Iinclude",
+      "-c",
+      "src/cava.cpp",
+      "-o",
+      "obj/cava.o"
+    ],
+    "directory": "/Users/xuyan/Music/tplay",
+    "output": "obj/cava.o"
+  },
+  {
+    "file": "src/greet.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-O2",
+      "-MMD",
+      "-MP",
+      "-Iinclude",
+      "-c",
+      "src/greet.cpp",
+      "-o",
+      "obj/greet.o"
+    ],
+    "directory": "/Users/xuyan/Music/tplay",
+    "output": "obj/greet.o"
+  },
+  {
+    "file": "src/library.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-O2",
+      "-MMD",
+      "-MP",
+      "-Iinclude",
+      "-c",
+      "src/library.cpp",
+      "-o",
+      "obj/library.o"
+    ],
+    "directory": "/Users/xuyan/Music/tplay",
+    "output": "obj/library.o"
+  },
+  {
+    "file": "src/lyrics.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-O2",
+      "-MMD",
+      "-MP",
+      "-Iinclude",
+      "-c",
+      "src/lyrics.cpp",
+      "-o",
+      "obj/lyrics.o"
+    ],
+    "directory": "/Users/xuyan/Music/tplay",
+    "output": "obj/lyrics.o"
+  },
+  {
+    "file": "src/main.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-O2",
+      "-MMD",
+      "-MP",
+      "-Iinclude",
+      "-c",
+      "src/main.cpp",
+      "-o",
+      "obj/main.o"
+    ],
+    "directory": "/Users/xuyan/Music/tplay",
+    "output": "obj/main.o"
+  },
+  {
+    "file": "src/player.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-O2",
+      "-MMD",
+      "-MP",
+      "-Iinclude",
+      "-c",
+      "src/player.cpp",
+      "-o",
+      "obj/player.o"
+    ],
+    "directory": "/Users/xuyan/Music/tplay",
+    "output": "obj/player.o"
+  },
+  {
+    "file": "src/queue.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-O2",
+      "-MMD",
+      "-MP",
+      "-Iinclude",
+      "-c",
+      "src/queue.cpp",
+      "-o",
+      "obj/queue.o"
+    ],
+    "directory": "/Users/xuyan/Music/tplay",
+    "output": "obj/queue.o"
+  },
+  {
+    "file": "src/terminal.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-O2",
+      "-MMD",
+      "-MP",
+      "-Iinclude",
+      "-c",
+      "src/terminal.cpp",
+      "-o",
+      "obj/terminal.o"
+    ],
+    "directory": "/Users/xuyan/Music/tplay",
+    "output": "obj/terminal.o"
+  },
+  {
+    "file": "src/ui.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-O2",
+      "-MMD",
+      "-MP",
+      "-Iinclude",
+      "-c",
+      "src/ui.cpp",
+      "-o",
+      "obj/ui.o"
+    ],
+    "directory": "/Users/xuyan/Music/tplay",
+    "output": "obj/ui.o"
+  },
+  {
+    "file": "src/waveform_service.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-O2",
+      "-MMD",
+      "-MP",
+      "-Iinclude",
+      "-c",
+      "src/waveform_service.cpp",
+      "-o",
+      "obj/waveform_service.o"
+    ],
+    "directory": "/Users/xuyan/Music/tplay",
+    "output": "obj/waveform_service.o"
+  }
+]
