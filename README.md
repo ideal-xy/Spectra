@@ -1,6 +1,6 @@
 # Spectra - Terminal Music Player
 
-`Spectra` is a feature-rich, terminal-based music player (TUI) written in C++17. It provides a polished user interface with real-time waveform visualization, frequency bars, and lyrics display.
+`Spectra` is a feature-rich, terminal-based music player (TUI) written in C++17. It provides a polished user interface with real-time waveform visualization, frequency bars.
 
 ![Spectra logo](./shot.png)
 
@@ -37,16 +37,17 @@ On Linux (using apt):
 ```bash
 sudo apt update
 sudo apt install mpv ffmpeg cava
-
+```
 
 ### 2. Build from Source
 
 Clone the repository and run `make`:
 
-
+```bash
 git clone <repository-url>
 cd tplay
 make
+```
 
 The executable will be generated in `bin/tplay`.
 
@@ -82,4 +83,4 @@ Start `tplay` by providing the path to your music directory:
 
 ## License
 
-[MIT License](LICENSE) (or specify your license)
+[MIT License](LICENSE)
